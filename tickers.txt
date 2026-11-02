@@ -1,0 +1,37 @@
+# Вотчлист IBI — синхронизирован с журналом (обновлено 2.11)
+# Позиции
+XLU
+XLF
+# Индексы/режим
+QQQ
+IWM
+# Кандидаты и алерты
+ABBV
+IBB
+JNJ
+LEN
+DINO
+AMZN
+GE
+AVGO
+ISRG
+# Софт-корзина (режим осторожности)
+ADBE
+HUBS
+IGV
+# Спящие
+NVDA
+GOOG
+HPQ
+COIN
+MU
+MAGS
+INTC
+SNDK
+MRNA
+AMD
+GEV
+WDC
+IONQ
+SOFI
+ACLS
