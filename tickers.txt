@@ -1,54 +1,49 @@
-# Вотчлист IBI — синхронизирован с журналом (обновлено 20.11)
-# Позиции
-# (сателлит пуст с 19.11)
-# Индексы/режим
-QQQ
-IWM
-# Кандидаты и алерты
-XLU
-ABBV
-IBB
-LEN
-DINO
-LPG
-AMZN
+# Вотчлист IBI — синхронизирован с журналом (обновлено 24.11)
+# Статусы и условия — только в журнале; этот файл лишь говорит малине, что качать
 AAPL
-GE
-AVGO
-ISRG
-TGT
-# Софт-корзина (режим осторожности)
-ADBE
-HUBS
-IGV
-CHKP
-# Спящие
-XLF
-JNJ
-NVDA
-GOOG
-HPQ
-COIN
-MU
-INTC
-SNDK
-MRNA
-AMD
-GEV
-WDC
-IONQ
-SOFI
+ABBV
 ACLS
-HOOD
-EFOR
-META
-W
-NKE
-PLTR
-OUST
+ADBE
+AMD
+AMZN
+AVGO
 CEG
+CHKP
+COIN
 CRWD
+DINO
+EFOR
+GE
+GEV
+GOOG
+HOOD
+HPQ
+HUBS
+IBB
+IGV
+INTC
+IONQ
+ISRG
+IWM
+JNJ
+LEN
+LPG
+META
+MRNA
+MU
+NKE
+NVDA
 NVO
+OUST
 PANW
-ZS
+PLTR
+QQQ
 RBRK
+SNDK
+SOFI
+TGT
+W
+WDC
+XLF
+XLU
+ZS
