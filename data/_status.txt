@@ -1,4 +1,4 @@
-run: 2026-11-26T06:00:00
+run: 2026-11-27T06:00:01
 AAPL: OK [twelvedata], 500 bars, last 2026-11-25
 AAPL_1h: OK, 2000 bars
 ABBV: OK [twelvedata], 500 bars, last 2026-11-25
