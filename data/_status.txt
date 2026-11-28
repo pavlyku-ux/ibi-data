@@ -1,97 +1,101 @@
-run: 2026-11-27T06:00:01
-AAPL: OK [twelvedata], 500 bars, last 2026-11-25
+run: 2026-11-28T06:00:00
+AAPL: OK [twelvedata], 500 bars, last 2026-11-27
 AAPL_1h: OK, 2000 bars
-ABBV: OK [twelvedata], 500 bars, last 2026-11-25
+ABBV: OK [twelvedata], 500 bars, last 2026-11-27
 ABBV_1h: OK, 2000 bars
-ACLS: OK [twelvedata], 500 bars, last 2026-11-25
+ACLS: OK [twelvedata], 500 bars, last 2026-11-27
 ACLS_1h: OK, 2000 bars
-ADBE: OK [twelvedata], 500 bars, last 2026-11-25
+ADBE: OK [twelvedata], 500 bars, last 2026-11-27
 ADBE_1h: OK, 2000 bars
-AMD: OK [twelvedata], 500 bars, last 2026-11-25
+AMD: OK [twelvedata], 500 bars, last 2026-11-27
 AMD_1h: OK, 2000 bars
-AMZN: OK [twelvedata], 500 bars, last 2026-11-25
+AMZN: OK [twelvedata], 500 bars, last 2026-11-27
 AMZN_1h: OK, 2000 bars
-AVGO: OK [twelvedata], 500 bars, last 2026-11-25
+AVGO: OK [twelvedata], 500 bars, last 2026-11-27
 AVGO_1h: OK, 2000 bars
-CEG: OK [twelvedata], 500 bars, last 2026-11-25
+CEG: OK [twelvedata], 500 bars, last 2026-11-27
 CEG_1h: OK, 2000 bars
-CHKP: OK [twelvedata], 500 bars, last 2026-11-25
+CHKP: OK [twelvedata], 500 bars, last 2026-11-27
 CHKP_1h: OK, 2000 bars
-COIN: OK [twelvedata], 500 bars, last 2026-11-25
+COIN: OK [twelvedata], 500 bars, last 2026-11-27
 COIN_1h: OK, 2000 bars
-CRWD: OK [twelvedata], 500 bars, last 2026-11-25
+CRWD: OK [twelvedata], 500 bars, last 2026-11-27
 CRWD_1h: OK, 2000 bars
-DINO: OK [twelvedata], 500 bars, last 2026-11-25
+DINO: OK [twelvedata], 500 bars, last 2026-11-27
 DINO_1h: OK, 2000 bars
-EFOR: OK [twelvedata], 500 bars, last 2026-11-25
-EFOR_1h: OK, 1050 bars
-GE: OK [twelvedata], 500 bars, last 2026-11-25
+EFOR: OK [twelvedata], 500 bars, last 2026-11-27
+EFOR_1h: OK, 1054 bars
+GE: OK [twelvedata], 500 bars, last 2026-11-27
 GE_1h: OK, 2000 bars
-GEV: OK [twelvedata], 500 bars, last 2026-11-25
+GEV: OK [twelvedata], 500 bars, last 2026-11-27
 GEV_1h: OK, 2000 bars
-GOOG: OK [twelvedata], 500 bars, last 2026-11-25
+GOOG: OK [twelvedata], 500 bars, last 2026-11-27
 GOOG_1h: OK, 2000 bars
-HOOD: OK [twelvedata], 500 bars, last 2026-11-25
+HOOD: OK [twelvedata], 500 bars, last 2026-11-27
 HOOD_1h: OK, 2000 bars
-HPQ: OK [twelvedata], 500 bars, last 2026-11-25
+HPQ: OK [twelvedata], 500 bars, last 2026-11-27
 HPQ_1h: OK, 2000 bars
-HUBS: OK [twelvedata], 500 bars, last 2026-11-25
+HUBS: OK [twelvedata], 500 bars, last 2026-11-27
 HUBS_1h: OK, 2000 bars
-IBB: OK [twelvedata], 500 bars, last 2026-11-25
+IBB: OK [twelvedata], 500 bars, last 2026-11-27
 IBB_1h: OK, 2000 bars
-IGV: OK [twelvedata], 500 bars, last 2026-11-25
+IGV: OK [twelvedata], 500 bars, last 2026-11-27
 IGV_1h: OK, 2000 bars
-INTC: OK [twelvedata], 500 bars, last 2026-11-25
+INTC: OK [twelvedata], 500 bars, last 2026-11-27
 INTC_1h: OK, 2000 bars
-IONQ: OK [twelvedata], 500 bars, last 2026-11-25
+IONQ: OK [twelvedata], 500 bars, last 2026-11-27
 IONQ_1h: OK, 2000 bars
-ISRG: OK [twelvedata], 500 bars, last 2026-11-25
+ISRG: OK [twelvedata], 500 bars, last 2026-11-27
 ISRG_1h: OK, 2000 bars
-IWM: OK [twelvedata], 500 bars, last 2026-11-25
+IWM: OK [twelvedata], 500 bars, last 2026-11-27
 IWM_1h: OK, 2000 bars
-JNJ: OK [twelvedata], 500 bars, last 2026-11-25
+JNJ: OK [twelvedata], 500 bars, last 2026-11-27
 JNJ_1h: OK, 2000 bars
-LEN: OK [twelvedata], 500 bars, last 2026-11-25
+LEN: OK [twelvedata], 500 bars, last 2026-11-27
 LEN_1h: OK, 2000 bars
-LPG: OK [twelvedata], 500 bars, last 2026-11-25
+LPG: OK [twelvedata], 500 bars, last 2026-11-27
 LPG_1h: OK, 2000 bars
-META: OK [twelvedata], 500 bars, last 2026-11-25
+META: OK [twelvedata], 500 bars, last 2026-11-27
 META_1h: OK, 2000 bars
-MRNA: OK [twelvedata], 500 bars, last 2026-11-25
+MRNA: OK [twelvedata], 500 bars, last 2026-11-27
 MRNA_1h: OK, 2000 bars
-MU: OK [twelvedata], 500 bars, last 2026-11-25
+MU: OK [twelvedata], 500 bars, last 2026-11-27
 MU_1h: OK, 2000 bars
-NKE: OK [twelvedata], 500 bars, last 2026-11-25
+NKE: OK [twelvedata], 500 bars, last 2026-11-27
 NKE_1h: OK, 2000 bars
-NVDA: OK [twelvedata], 500 bars, last 2026-11-25
+NVDA: OK [twelvedata], 500 bars, last 2026-11-27
 NVDA_1h: OK, 2000 bars
-NVO: OK [twelvedata], 500 bars, last 2026-11-25
+NVO: OK [twelvedata], 500 bars, last 2026-11-27
 NVO_1h: OK, 2000 bars
-OUST: OK [twelvedata], 500 bars, last 2026-11-25
+OUST: OK [twelvedata], 500 bars, last 2026-11-27
 OUST_1h: OK, 2000 bars
-PANW: OK [twelvedata], 500 bars, last 2026-11-25
+PANW: OK [twelvedata], 500 bars, last 2026-11-27
 PANW_1h: OK, 2000 bars
-PLTR: OK [twelvedata], 500 bars, last 2026-11-25
+PLTR: OK [twelvedata], 500 bars, last 2026-11-27
 PLTR_1h: OK, 2000 bars
-QQQ: OK [twelvedata], 500 bars, last 2026-11-25
+QQQ: OK [twelvedata], 500 bars, last 2026-11-27
 QQQ_1h: OK, 2000 bars
-RBRK: OK [twelvedata], 500 bars, last 2026-11-25
+RBLX: OK [twelvedata], 500 bars, last 2026-11-27
+RBLX_1h: OK, 2000 bars
+RBRK: OK [twelvedata], 500 bars, last 2026-11-27
 RBRK_1h: OK, 2000 bars
-SNDK: OK [twelvedata], 449 bars, last 2026-11-25
+SNDK: OK [twelvedata], 450 bars, last 2026-11-27
 SNDK_1h: OK, 2000 bars
-SOFI: OK [twelvedata], 500 bars, last 2026-11-25
+SOFI: OK [twelvedata], 500 bars, last 2026-11-27
 SOFI_1h: OK, 2000 bars
-T: OK [twelvedata], 500 bars, last 2026-11-25
+SPY: OK [twelvedata], 500 bars, last 2026-11-27
+SPY_1h: OK, 2000 bars
+T: OK [twelvedata], 500 bars, last 2026-11-27
 T_1h: OK, 2000 bars
-TGT: OK [twelvedata], 500 bars, last 2026-11-25
+TGT: OK [twelvedata], 500 bars, last 2026-11-27
 TGT_1h: OK, 2000 bars
-W: OK [twelvedata], 500 bars, last 2026-11-25
+W: OK [twelvedata], 500 bars, last 2026-11-27
 W_1h: OK, 2000 bars
-WDC: OK [twelvedata], 500 bars, last 2026-11-25
+WDC: OK [twelvedata], 500 bars, last 2026-11-27
 WDC_1h: OK, 2000 bars
-XLF: OK [twelvedata], 500 bars, last 2026-11-25
+XLF: OK [twelvedata], 500 bars, last 2026-11-27
 XLF_1h: OK, 2000 bars
-XLU: OK [twelvedata], 500 bars, last 2026-11-25
+XLU: OK [twelvedata], 500 bars, last 2026-11-27
 XLU_1h: OK, 2000 bars
-ZS: OK [twelvedata], 500 bars, last 2026-11-25
+ZS: OK [twelvedata], 500 bars, last 2026-11-27
 ZS_1h: OK, 2000 bars
